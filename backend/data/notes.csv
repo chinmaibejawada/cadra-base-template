@@ -1,0 +1,11 @@
+id,notable_type,notable_id,content,author,is_internal,created_at
+1,order,1,Delivery confirmed via phone. Customer happy with early arrival.,Sarah Johnson,0,2026-01-19 14:30:00
+2,order,2,Customer requested Saturday delivery. Arranged with logistics.,Mike Peterson,1,2026-02-05 09:15:00
+3,farm,1,Green Acres prefers contact via email. Phone calls go to voicemail.,Sarah Johnson,0,2026-01-10 11:00:00
+4,order,4,Approval pending from regional manager. Follow up by Friday.,Tom Richards,1,2026-03-25 16:45:00
+5,order,7,Order cancelled due to budget constraints. Customer may reorder next quarter.,Lisa Chen,0,2026-03-15 10:30:00
+6,product,7,Price increase expected next month from supplier. Consider bulk order.,Mike Peterson,1,2026-04-01 08:00:00
+7,farm,3,Hillside won their organic certification. Update pricing accordingly.,Sarah Johnson,0,2026-03-20 13:20:00
+8,order,3,Call customer before shipment to confirm delivery window.,Tom Richards,1,2026-03-10 14:00:00
+9,product,15,New formulation arriving next batch. Notify cattle farmers.,Lisa Chen,0,2026-04-05 09:30:00
+10,farm,9,Blue Sky has new contact person: Jamie Rogers - (217) 555-2121,Tom Richards,0,2026-04-02 11:15:00

@@ -1,0 +1,16 @@
+id,sku,name,description,category,unit,unit_price,current_stock,reorder_point,is_active
+1,PR-CORN-001,Dent Corn #2 Yellow,High-quality #2 yellow dent corn for livestock feed,Grain,bu,5.75,2500.000,500.000,1
+2,PR-CORN-002,Sweet Corn Seed,Non-GMO sweet corn seed for spring planting,Seed,lbs,12.50,800.000,200.000,1
+3,PR-SOY-001,Soybeans #1 Yellow,Grade #1 yellow soybeans for feed and crushing,Grain,bu,13.20,1800.000,400.000,1
+4,PR-SOY-002,Soybean Meal 48%,48% protein soybean meal for supplement,Grain,ton,420.00,300.000,75.000,1
+5,PR-WHT-001,Winter Wheat Seed,Soft red winter wheat seed for fall planting,Seed,lbs,18.75,600.000,150.000,1
+6,PR-WHT-002,Hard Red Spring Wheat,High-protein hard red spring wheat,Grain,bu,7.80,1200.000,300.000,1
+7,PR-FRT-001,Nitrogen Fertilizer 46-0-0,Urea-based nitrogen fertilizer,Fertilizer,lbs,0.55,5000.000,1000.000,1
+8,PR-FRT-002,Starter Fertilizer 10-34-0,Liquid starter fertilizer for corn,Fertilizer,gal,3.20,1500.000,400.000,1
+9,PR-FRT-003,Potash 0-0-60,Granular potash for soil potassium,Fertilizer,ton,480.00,400.000,100.000,1
+10,PR-HERB-001,Glyphosate Concentrate,Generic glyphosate herbicide 41% concentrate,Chemical,gal,45.00,200.000,50.000,1
+11,PR-HERB-002,Atrazine 4L,Atrazine herbicide for broadleaf weed control,Chemical,gal,32.50,150.000,40.000,1
+12,PR-SEED-001,Alfalfa Hay Premium,Premium dairy-quality alfalfa hay,Feed,ton,285.00,350.000,80.000,1
+13,PR-SEED-002,Timothy Hay,High-fiber timothy hay for horses,Feed,ton,265.00,250.000,60.000,1
+14,PR-LIVE-001,Layer Pellets 16%,Complete layer feed 16% protein,Feed,lbs,0.38,3000.000,750.000,1
+15,PR-LIVE-002,Beef Cattle Mineral,Mineral supplement for beef cattle,Feed,lbs,0.62,2000.000,500.000,1

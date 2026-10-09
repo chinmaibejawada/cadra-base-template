@@ -1,0 +1,11 @@
+id,name,address,city,state,zip_code,phone,email,is_active
+1,Green Acres Farm,1234 County Road 5,Springfield,IL,62701,(217) 555-0101,contact@greenacres.com,1
+2,Sunny Valley Ranch,5678 River Road,Champaign,IL,61820,(217) 555-0102,info@sunnyvalley.com,1
+3,Hillside Homestead,9102 Ridge Road,Bloomington,IL,61701,(309) 555-0103,farm@hillsidehomestead.com,1
+4,Riverside Organic Farm,3344 Bank Street,Peoria,IL,61602,(309) 555-0104,organic@riverside.com,1
+5,Whispering Pines Ranch,7789 Pine Lane,Decatur,IL,62521,(217) 555-0105,whispering@pine.com,1
+6,Cedar Creek Farm,2233 Creek Road,Springfield,IL,62704,(217) 555-0106,info@cedarcreek.com,1
+7,Prairie View Farm,4455 Horizon Drive,Normal,IL,61761,(309) 555-0107,prairie@prairieview.com,1
+8,Golden Wheat Fields,6677 Farm Road,Urbana,IL,61801,(217) 555-0108,contact@goldenwheat.com,1
+9,Blue Sky Ranch,8899 Meadow Lane,Decatur,IL,62522,(217) 555-0109,ranch@bluesky.com,1
+10,Willow Creek Farm,1100 Willow Way,Champaign,IL,61822,(217) 555-0110,info@willowcreek.com,1
